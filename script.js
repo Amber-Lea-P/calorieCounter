@@ -6,7 +6,7 @@ const clearButton = document.getElementById('clear');
 const output = document.getElementById('output');
 let isError = false;
 
-//when we want to set the value wihin an input value, JS will receive a string value so we will have to write a funciton that converts the value of the string to a number. This is a helper function. 
+//when we want to set the value within an input value, JS will receive a string value so we will have to write a funciton that converts the value of the string to a number. This is a helper function. 
 
 //I will keep this example here but this is the longer way of completing this function
 /* function cleanInputString(str) {
